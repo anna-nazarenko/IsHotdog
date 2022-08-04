@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  isHotdog
 //
-//  Created by Dream Store on 04.08.2022.
+//  Created by Anna Nazarenko on 04.08.2022.
 //
 
 import UIKit
